@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 /**
+  * main - Entry point
+  *
   *put() function write string to the stdout
+  *
+  * Return: 0 (Success)
   */
 
 int main(void) 
@@ -11,6 +15,5 @@ int main(void)
 	puts(my_string);
 
 	return (0);
-
 }
 
