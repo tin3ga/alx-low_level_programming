@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main :  main block block
+ * main :  main code block
  * while loops
  * Description: Print all numbers of base 10
  * Return: 0
